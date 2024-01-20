@@ -1,0 +1,2 @@
+# CA_Infra_DataOps-Automated-Construction-Data-Scraping-Standardization
+Efficiently gather and standardize construction and infrastructure data in California with CAInfraDataOps. Employing language models like OpenAI's GPT, the project ensures reliable sourcing, scraping, and continuous updates. Explore Python scripts, comprehensive documentation, sample datasets, and production environment plan for seamless automation
